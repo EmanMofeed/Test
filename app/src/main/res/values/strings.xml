@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="registration_for">Registration For</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save">Save</string>
+    <string-array name="depts">
+        <item>Computer Science</item>
+        <item>Computer Engineering</item>
+        <item>Accounting</item>
+    </string-array>
+</resources>
